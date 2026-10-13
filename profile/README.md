@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EXOPA-OAPa/.github/main/profile/assets/exopa-logo.png" alt="EXOPA@OAPA logo" width="220">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EXOPA-OAPa/.github/main/profile/assets/exopa-logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/EXOPA-OAPa/.github/main/profile/assets/exopa-logo.svg" alt="EXOPA@OAPA logo" width="420">
+  </picture>
 </p>
 
 <h1 align="center">EXOPA@OAPA</h1>
