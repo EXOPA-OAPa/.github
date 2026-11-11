@@ -29,7 +29,7 @@ This organization hosts the open-source codes, numerical models and analysis too
 | Project | Description | Language | Status |
 | --- | --- | --- | --- |
 | [**PHOTO-CAT**](https://github.com/EXOPA-OAPa/PHOTO-CAT) | Photometric Contamination Analyzer Tool: builds a neighbour index from an astronomical catalogue and screens photometric targets for nearby-source contamination risk. GUI + CLI, English/Italian interface. | Python | ![Public](https://img.shields.io/badge/status-public-brightgreen) |
-| [**MINERVA**](https://github.com/EXOPA-OAPa/MINERVA) | MInimum observations for accurate Exoplanetary mass estimation with Radial Velocity Analysis: An *ab initio* forward-modelling Monte Carlo simulator to estimate the number of radial-velocity (RV) observations needed to reach a given precision on the mass of a transiting exoplanet, including realistic stellar activity signals, noise, and observing cadences. | Python | ![Public](https://img.shields.io/badge/status-public-brightgreen) |
+| [**MINERVA**](https://github.com/EXOPA-OAPa/MINERVA) | MInimum observations for accurate Exoplanetary mass estimation with Radial Velocity Analysis: a tool designed to estimate the number of radial-velocity (RV) observations needed to reach a given precision on the mass of a transiting exoplanet, including realistic stellar activity signals, noise, and observing cadences. | Python | ![Public](https://img.shields.io/badge/status-public-brightgreen) |
 | *Coming soon* | Further projects will be published here shortly. | — | ![Soon](https://img.shields.io/badge/status-coming%20soon-lightgrey) |
 
 <!--
